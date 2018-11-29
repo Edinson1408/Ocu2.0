@@ -1,0 +1,22 @@
+{
+  "name": "lazy-load-example",
+  "version": "1.0.0",
+  "description": "example",
+  "main": "index.js",
+  "scripts": {
+    "test": "tes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com"
+  },
+  "keywords": [
+    "lazy"
+  ],
+  "author": "emer",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.5.13",
+    "vue-infinite-loading": "^2.2.3"
+  }
+}
